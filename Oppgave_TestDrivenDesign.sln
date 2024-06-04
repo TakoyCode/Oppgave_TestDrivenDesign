@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oppgave_TestDrivenDesign.Main", "Oppgave_TestDrivenDesign\Oppgave_TestDrivenDesign.Main.csproj", "{F5A458E5-B4DD-4F19-BBD4-C432E1C27568}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oppgave_TestDrivenDesign.Test", "Oppgave_TestDrivenDesign.Test\Oppgave_TestDrivenDesign.Test.csproj", "{22EFC187-C8C9-4429-9402-85AB5B9F8FC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5A458E5-B4DD-4F19-BBD4-C432E1C27568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A458E5-B4DD-4F19-BBD4-C432E1C27568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A458E5-B4DD-4F19-BBD4-C432E1C27568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A458E5-B4DD-4F19-BBD4-C432E1C27568}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22EFC187-C8C9-4429-9402-85AB5B9F8FC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22EFC187-C8C9-4429-9402-85AB5B9F8FC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22EFC187-C8C9-4429-9402-85AB5B9F8FC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22EFC187-C8C9-4429-9402-85AB5B9F8FC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDF5BD55-4C5B-4CEE-866D-A435D6869E54}
+	EndGlobalSection
+EndGlobal
